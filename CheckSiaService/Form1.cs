@@ -41,7 +41,7 @@ namespace CheckSiaService
 
             string url = "";
 
-            url = "http://localhost:9980/renter";
+            url = "http://localhost:9980/";
             string responseFromServer = "";
             try
             {
